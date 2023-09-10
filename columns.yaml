@@ -1,0 +1,7 @@
+columns:
+- Age
+- Height
+- Weight
+- Bmi
+- BmiClass
+separator: '|'
